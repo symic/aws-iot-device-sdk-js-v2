@@ -5,8 +5,10 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 * 宠物喂食提醒器
 
 ##二、方案应用
+
 ####场景地点：
-*  家中任何地方，或是宠物的小窝。 
+*  家中任何地方，或是宠物的小窝。
+ 
 ####功能：
 * 实现基于涂鸦云的宠物喂食提醒器，具备语音控制功能、电机驱动功能、数据上云功能及通过APP控制功能。如有余力还可增加定时加水，温湿度控制等功能。 
 
